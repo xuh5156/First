@@ -1,5 +1,7 @@
 This is my first in github.
+
 This file is some information on using github.
+
 See https://help.github.com/articles/create-a-repo
 
 1. Create Repository
